@@ -9,7 +9,8 @@
 			"orders": [],
 			"historyOfOrders": [],
 			"creditCard": "",
-			"locations": []
+			"locations": [],
+			"notifications": []
 		}
 	],
 	"products": [
